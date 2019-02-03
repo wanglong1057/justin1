@@ -8,7 +8,7 @@
     <artifactId>lucene_demo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
-        <!-- Junit单元测试 -->
+        <!-- Junit单元测试2 -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
